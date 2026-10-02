@@ -1,0 +1,19 @@
+{
+  "name": "CareerFit India — AI Resume Analyzer & Job Matcher",
+  "short_name": "CareerFit",
+  "description": "Upload a resume to get an ATS score, predicted roles, salary range and matched jobs and internships across India.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    { "src": "/favicon-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/favicon-512x512.png", "sizes": "512x512", "type": "image/png" },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
